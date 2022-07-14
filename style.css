@@ -1,0 +1,16 @@
+#contact iframe
+{
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: orange;
+}
